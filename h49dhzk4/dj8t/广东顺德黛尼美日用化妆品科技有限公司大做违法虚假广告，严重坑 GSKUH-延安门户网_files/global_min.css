@@ -1,0 +1,16 @@
+﻿*{font-family:"Arial", "����", "Tahoma", sans-serif;font-size:12px;font-style:normal;line-height:160%;font-variant:normal;}html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:400;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}legend{color:#000;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{font-size:100%;}a:hover{text-decoration:underline;}.clear{clear:both;}button{cursor:pointer;}.DefaultText{border:1px solid;background:#F9F9F9;color:#333;border-color:#666 #ccc #ccc #666;padding:2px;}.DefaultText:hover,.DefaultText:focus{background:#F5F9FD;border-color:#09C;}.DefaultButton{cursor:pointer;color:#FFF;border:1px inset #3D7EB7;height:18px;line-height:18px;font-size:12px;}.DisableInput{background-color:#E7EEFE;scrollbar-face-color:E7EEFE;border:0;}.dis{display:block;}.undis{display:none;}.NoState{font-size:13px;color:gray;}.HasState{font-size:13px;color:#F30;background-color:#D7E8F5;}.blue-12{font-size:12px;color:#06C;line-height:160%;}.white-12{font-size:12px;color:#FFF;line-height:160%;}.red-12{color:red;font-size:12px;line-height:160%;}.wrapper{width:100%;height:100%;text-align:left;margin:0 auto;}del,ins,a{text-decoration:none;}sup,sub{vertical-align:baseline;}<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script language="javascript" src="/ad.js"></script>
